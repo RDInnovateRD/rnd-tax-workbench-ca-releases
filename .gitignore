@@ -1,0 +1,10 @@
+assets/
+*.orig
+archive/
+*.dmg
+*.exe
+*.zip
+*.AppImage
+*.deb
+*.rpm
+.DS_Store
