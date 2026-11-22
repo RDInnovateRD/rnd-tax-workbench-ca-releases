@@ -24,7 +24,7 @@ Application de bureau pour préparer les demandes de RS&DE, en français ou en a
   les parties, y compris les lignes de capital et de location pour les années d'imposition
   commençant après le 15 décembre 2024), annexe 31 ou T2038(IND), et répartition T5013. Les deux
   régimes sont intégrés : années commençant avant le 16 décembre 2024 et après.
-- Chaque province et territoire offrant un crédit de R-D : Ontario (CIIO, CIRD, CIIRO),
+- Chaque province et territoire offrant un crédit de R-D : Ontario (CIIO, CIORD, CIOEPIR),
   Colombie-Britannique, Saskatchewan, Manitoba, Nouveau-Brunswick, Nouvelle-Écosse,
   Terre-Neuve-et-Labrador, Yukon, la subvention de l'Alberta pour l'emploi en innovation et le
   CRIC du Québec.
