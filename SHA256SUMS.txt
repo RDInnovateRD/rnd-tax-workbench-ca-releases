@@ -8,6 +8,6 @@
 b12c1888f9a0e4a639c686815962d858657c209b1899240b4dd479a3875f5ac4  RnD-Tax-Workbench-Canada-1.0.0-mac-x64.dmg.blockmap
 36b10e957a60c9c3780d2e5e2f7b3d81b32ede330e16ee55ac521d238b99b294  RnD-Tax-Workbench-Canada-1.0.0-mac-x64.zip
 8f6be413a2e1df1785da8025e8fd679f71a0f8ba99bce8d8f5fc6c81b8e24508  RnD-Tax-Workbench-Canada-1.0.0-mac-x64.zip.blockmap
-84d3356b048925c1a13b68a7555e9592fbe3d06d6689535e8846acb6ecc1266a  RnD-Tax-Workbench-Canada-1.0.0-win-x64.exe
-3979f502f7bfba53ccdde17128f79a897bb058ac9d567c6238c2d2230a05f3d0  RnD-Tax-Workbench-Canada-1.0.0-win-x64.exe.blockmap
+02fdcf5320e26a408e4039873721f1b6e4aab42f7fa1a086a67200d256aeab89  RnD-Tax-Workbench-Canada-1.0.0-win-x64.exe
+134eb27b6002ea4eb03d32f73fc60d39adf0182f376ea6ad03b397ffacc1dbcf  RnD-Tax-Workbench-Canada-1.0.0-win-x64.exe.blockmap
 42fffa3a6277a08541af840c257646ae27e9427774b1c1b21ee780388409453c  RnD-Tax-Workbench-Canada-1.0.0-x86_64.AppImage
